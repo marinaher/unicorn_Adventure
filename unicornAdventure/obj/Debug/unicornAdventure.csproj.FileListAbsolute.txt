@@ -1,0 +1,6 @@
+C:\Users\reald\Documents\GitHub\devCodeCamp Projects\unicornAdventure\unicornAdventure\bin\Debug\unicornAdventure.exe.config
+C:\Users\reald\Documents\GitHub\devCodeCamp Projects\unicornAdventure\unicornAdventure\bin\Debug\unicornAdventure.exe
+C:\Users\reald\Documents\GitHub\devCodeCamp Projects\unicornAdventure\unicornAdventure\bin\Debug\unicornAdventure.pdb
+C:\Users\reald\Documents\GitHub\devCodeCamp Projects\unicornAdventure\unicornAdventure\obj\Debug\unicornAdventure.csprojResolveAssemblyReference.cache
+C:\Users\reald\Documents\GitHub\devCodeCamp Projects\unicornAdventure\unicornAdventure\obj\Debug\unicornAdventure.exe
+C:\Users\reald\Documents\GitHub\devCodeCamp Projects\unicornAdventure\unicornAdventure\obj\Debug\unicornAdventure.pdb
